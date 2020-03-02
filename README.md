@@ -1,0 +1,2 @@
+# FPGA_ConnectedComponentAnalysis_project
+ manual
